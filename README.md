@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/cgcel/PaddleOCRFastAPI)
 
-[中文](https://github.com/cgcel/PaddleOCRFastAPI/blob/master/README_CN.md)
+[中文](README_CN.md)
 
 A simple way to deploy `PaddleOCR` based on `FastAPI`.
 
